@@ -16,7 +16,7 @@ They could also be adapted for contract analysis, regulatory compliance checks, 
 quickly and cost-effectively. By distilling the capabilities of a powerful model into a lightweight, targeted system, organizations can gain fast, accurate, 
 and scalable extraction tools without the cost and latency of relying on large external AI services.
 
-# Notes
+# Highlights
 :heavy_check_mark: Business Goal: Enable faster and more accurate matching of job seekers to positions by improving extraction of education and experience requirements.
 
 :heavy_check_mark: Challenge: Traditional parsing tools fail when requirements are expressed in varied, nuanced, or informal language, or when multiple options are presented.
