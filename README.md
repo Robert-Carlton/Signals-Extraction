@@ -3,8 +3,8 @@ This project focused on improving how job postings are analyzed to extract a spe
 This information is often buried in complex, varied, and sometimes informal wording that traditional keyword-based hiring software struggles to interpret. 
 Our client, a startup company that connects job seekers with relevant opportunities, needed a faster, lower-cost, and more accurate solution.
 
-The team first used a large, advanced AI model to read and label a carefully chosen set of job postings. These labels captured 
-nuanced combinations of education and experience requirements that existing systems missed. A smaller, task-specific AI model was then trained on these labeled examples using a 
+We used an advanced LLM model to read and label a carefully chosen set of job postings. These labels captured 
+nuanced combinations of education and experience requirements that existing systems missed. A smaller, task-specific LLM was then trained on these labeled examples using a 
 method known as knowledge distillation. This approach transferred the capabilities of the larger model into the smaller one, resulting in a tool that could run quickly and inexpensively without relying on costly third-party AI services.
 
 The final system was able to handle multiple requirement options, informal phrasing, and complex sentence structures while meeting strict speed and accuracy 
